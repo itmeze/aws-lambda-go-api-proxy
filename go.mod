@@ -9,5 +9,7 @@ require (
 	github.com/gorilla/mux v1.7.4
 	github.com/kataras/iris/v12 v12.1.8
 	github.com/labstack/echo/v4 v4.1.16
+	github.com/onsi/ginkgo v1.14.2
+	github.com/onsi/gomega v1.10.3
 	github.com/urfave/negroni v1.0.0
 )
